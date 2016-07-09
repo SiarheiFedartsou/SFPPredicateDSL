@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 Typo-safe DSL for NSPredicate. Makes auto-completion and compile-time checks possible when writing NSPredicate's.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/SFPPredicateDSL'
+  s.homepage         = 'https://github.com/SiarheiFedartsou/SFPPredicateDSL'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Siarhei Fiedartsou' => 'siarhei.fedartsou@gmail.com' }
