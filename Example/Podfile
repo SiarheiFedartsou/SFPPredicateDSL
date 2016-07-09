@@ -1,0 +1,7 @@
+use_frameworks!
+target 'SFPPredicateDSL_Tests' do
+  pod 'SFPPredicateDSL', :path => '../'
+  
+  pod 'Specta'
+  pod 'Expecta'
+end

@@ -1,0 +1,6 @@
+framework module SFPPredicateDSL {
+  umbrella header "SFPPredicateDSL-umbrella.h"
+
+  export *
+  module * { export * }
+}

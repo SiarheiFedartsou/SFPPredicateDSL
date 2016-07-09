@@ -1,0 +1,22 @@
+{
+  "name": "SFPPredicateDSL",
+  "version": "0.1.0",
+  "summary": "A short description of SFPPredicateDSL.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SFPPredicateDSL",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Siarhei Fiedartsou": "siarhei.fedartsou@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/SiarheiFedartsou/SFPPredicateDSL.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SFPPredicateDSL/Classes/**/*"
+}
