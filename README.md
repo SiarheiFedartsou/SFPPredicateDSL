@@ -5,11 +5,15 @@
 [![License](https://img.shields.io/cocoapods/l/SFPPredicateDSL.svg?style=flat)](http://cocoapods.org/pods/SFPPredicateDSL)
 [![Platform](https://img.shields.io/cocoapods/p/SFPPredicateDSL.svg?style=flat)](http://cocoapods.org/pods/SFPPredicateDSL)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
+Allows to work with NSPredicate's in much safer manner with compile-time checks. For example instead of this:
+```objc
+[NSPredicate predicateWithFormat:@"keypath == %@ AND keypath2 IN %@", @10, @[@1, @2, @3]]
+```
+you can just write:
+```objc
+[NSPredicate predicate:where(@"keypath").equals(@10).and.where(@"keypath2").in(@[@1, @2, @3])]
+```
+For more examples of usage see specs.
 
 ## Installation
 
