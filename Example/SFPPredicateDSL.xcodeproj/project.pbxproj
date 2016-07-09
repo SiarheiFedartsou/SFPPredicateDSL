@@ -337,7 +337,6 @@
 			baseConfigurationReference = 5E6C3C2C2FCFDB42C3C3A1B5 /* Pods-SFPPredicateDSL_Tests.debug.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
@@ -360,7 +359,6 @@
 			baseConfigurationReference = 619B27CDEEDEA8A9A698F9BD /* Pods-SFPPredicateDSL_Tests.release.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);

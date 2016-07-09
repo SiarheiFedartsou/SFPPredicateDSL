@@ -1,6 +1,7 @@
 #import <UIKit/UIKit.h>
 
 #import "NSPredicate+SFPPredicateDSL.h"
+#import "SFPPredicateDSL.h"
 #import "SFPPredicateFormatter.h"
 
 FOUNDATION_EXPORT double SFPPredicateDSLVersionNumber;

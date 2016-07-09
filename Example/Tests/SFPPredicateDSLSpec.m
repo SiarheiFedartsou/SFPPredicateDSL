@@ -11,7 +11,7 @@
 #import <Expecta/Expecta.h>
 
 
-@import SFPPredicateDSL;
+#import <SFPPredicateDSL/SFPPredicateDSL.h>
 
 SpecBegin(SFPPredicateDSL)
     describe(@"NSPredicate SFPPredicateDSL category", ^{

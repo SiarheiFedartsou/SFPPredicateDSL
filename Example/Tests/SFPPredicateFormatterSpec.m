@@ -10,7 +10,7 @@
 #import <Expecta/Expecta.h>
 
 
-@import SFPPredicateDSL;
+#import <SFPPredicateDSL/SFPPredicateDSL.h>
 
 SpecBegin(SFPPredicateFormatter)
 describe(@"SFPPredicateFormatter", ^{
