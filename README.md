@@ -1,6 +1,6 @@
 # SFPPredicateDSL
 
-[![CI Status](http://img.shields.io/travis/SiarheiFiedartsou/SFPPredicateDSL.svg?style=flat)](https://travis-ci.org/SiarheiFiedartsou/SFPPredicateDSL)
+[![CI Status](http://img.shields.io/travis/SiarheiFedartsou/SFPPredicateDSL.svg?style=flat)](https://travis-ci.org/SiarheiFedartsou/SFPPredicateDSL)
 [![Version](https://img.shields.io/cocoapods/v/SFPPredicateDSL.svg?style=flat)](http://cocoapods.org/pods/SFPPredicateDSL)
 [![License](https://img.shields.io/cocoapods/l/SFPPredicateDSL.svg?style=flat)](http://cocoapods.org/pods/SFPPredicateDSL)
 [![Platform](https://img.shields.io/cocoapods/p/SFPPredicateDSL.svg?style=flat)](http://cocoapods.org/pods/SFPPredicateDSL)
